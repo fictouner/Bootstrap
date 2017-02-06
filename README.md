@@ -75,10 +75,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<!--  设置当前HTML文件的字符编码  -->
     <meta charset="utf-8">
+<!--  声明当前网页在移动端浏览器中展示的相关设置  -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<!-- meta compatible 设置浏览器兼容模式版本（让IE使用最新的渲染引擎工作 IE=edge    -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Bootstrap 101 Template</title>
     <!-- Bootstrap -->

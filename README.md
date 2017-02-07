@@ -191,6 +191,8 @@
     + __hidden-xx__ : 在某种屏幕下隐藏 
     + __visible-xx__ : 在某种屏幕尺寸下显示
 
+- 基础CSS这块只是将我们以前常用的一些界面元素做了样式美化，如果需要使用，找到相应类名加到我们的元素上即可
+
 ## 预置界面组件
 
 - [导航](http://v3.bootcss.com/components/#nav)
@@ -214,6 +216,8 @@
 - [大屏幕](http://v3.bootcss.com/components/#jumbotron)
 - [嵌入内容](http://v3.bootcss.com/components/#responsive-embed)
 - [内嵌](http://v3.bootcss.com/components/#wells)
+
+- 就是将我们日常使用的一些功能块例如下拉菜单提前写好，使用前直接找到对应的DEMO，做相应调整即可
 
 ## JavaScript插件
 
